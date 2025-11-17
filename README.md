@@ -1,11 +1,11 @@
-# 🔐 Password Breach Checker  
+# Password Breach Checker  
 A modern red/black themed desktop application that checks if a password appears in known data breaches using the HaveIBeenPwned API (k-Anonymity method).
 
 ![App Screenshot](screenshots/app.png)
 
 ---
 
-## 🚀 Features
+## Features
 - ✔ Modern dark UI with red accent theme  
 - ✔ Uses the official HaveIBeenPwned range API (privacy-safe)  
 - ✔ Password masked input  
@@ -16,7 +16,7 @@ A modern red/black themed desktop application that checks if a password appears 
 
 ---
 
-## 🛠 How It Works
+## How It Works
 1. Your password is **never sent** to the API.  
 2. The app:
    - Hashes the password using SHA-1  
@@ -29,7 +29,7 @@ This preserves user privacy while still giving an accurate breach check.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### **Run from source**
 ```bash
@@ -49,7 +49,7 @@ dist/main.exe
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### Main Window  
 ![Main UI](screenshots/app.png)
@@ -62,7 +62,7 @@ dist/main.exe
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - Python 3.x  
 - Tkinter (GUI)  
 - Requests  
@@ -71,12 +71,12 @@ dist/main.exe
 
 ---
 
-## 📄 License
+## License
 MIT License
 
 ---
 
-## ⭐ Future Improvements
+## Future Improvements
 - [ ] Password strength rating  
 - [ ] Animated “scan” effect  
 - [ ] System tray version  
@@ -85,10 +85,11 @@ MIT License
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 🙌 Author
+## Author
 Built by **Rich Connell**
+
